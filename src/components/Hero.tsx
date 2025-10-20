@@ -36,7 +36,7 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center px-4 sm:px-0">
              <a  
-              href="assets/WebMenu2.pdf" 
+              href="assets/pdf/menu-web.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-gold hover:bg-golden text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full font-medium transition-all duration-200 hover:shadow-lg transform hover:scale-105 flex items-center space-x-2 w-full sm:w-auto justify-center"
